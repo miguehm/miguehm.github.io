@@ -6,6 +6,6 @@ theme: 'hugo-theme-stack'
 menu:
   main:
     - identifier: post
-      name: Post
+      name: Posting
       url: "post/"
       weight: 10

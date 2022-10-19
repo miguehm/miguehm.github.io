@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>http://example.org/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 16:03:47 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Regla Tercios</title><link>http://example.org/post/photo/regla-tercios/</link><pubDate>Tue, 18 Oct 2022 16:03:47 +0000</pubDate><guid>http://example.org/post/photo/regla-tercios/</guid><description>&lt;h1 id="explicando-la-regla-de-tercios">Explicando la regla de tercios&lt;/h1>
-&lt;p>hola&lt;/p></description></item></channel></rss>
+&lt;p>hola&lt;/p>
+&lt;h2 id="principios">Principios&lt;/h2>
+&lt;p>jeje&lt;/p>
+&lt;h1 id="test">Test&lt;/h1>
+&lt;p>&lt;img src="http://example.org/myphotos/sus.png"
+loading="lazy"
+alt="test"
+>&lt;/p>
+&lt;p>$$
+\frac{2}{4}
+$$&lt;/p>
+&lt;p>$a \in b$&lt;/p></description></item></channel></rss>

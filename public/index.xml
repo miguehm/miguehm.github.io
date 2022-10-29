@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Miguel Hernández Moreno</title>
+        <link>/</link>
+        <description>Recent content on Miguel Hernández Moreno</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 18 Oct 2022 16:03:47 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Regla Tercios</title>
+        <link>/post/photo/regla-tercios/</link>
+        <pubDate>Tue, 18 Oct 2022 16:03:47 +0000</pubDate>
+        
+        <guid>/post/photo/regla-tercios/</guid>
+        <description>&lt;h1 id=&#34;explicando-la-regla-de-tercios&#34;&gt;Explicando la regla de tercios&lt;/h1&gt;
+&lt;p&gt;hola&lt;/p&gt;
+&lt;h2 id=&#34;principios&#34;&gt;Principios&lt;/h2&gt;
+&lt;p&gt;jeje&lt;/p&gt;
+&lt;h1 id=&#34;test&#34;&gt;Test&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;/myphotos/sus.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;test&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;$$
+\frac{2}{4}
+$$&lt;/p&gt;
+&lt;p&gt;$a \in b$&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

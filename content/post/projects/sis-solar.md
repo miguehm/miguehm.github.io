@@ -2,7 +2,11 @@
 title: Modelo de Sistema Solar con Three.js usando Node.js y Vite
 author: Miguel Angel Hernández Moreno
 date: 2022-10-25T14:23:19Z
-draft: true
+image: sis-solar/rotate-earth.jpg
+draft: false
+categories:
+    - Proyectos
+tags: ["threejs"]
 ---
 
 # Resumen
@@ -12,7 +16,7 @@ Crear una solución eficiente, portable y sencilla es un problema para todas aqu
 
 A continuación se describe paso a paso la creación de una simulación de un sistema solar utilizando threejs, entre otras herramientas, con la finalidad de ser el detonante para que cualquier persona desarrolle sus propios proyectos acorde a sus necesidades. 
 
-Además de utilizar threejs, se utiliza otras herramientas como Nodejs, Vite y Git que han facilitado notablemente el desarrollo de este proyecto enfocado a la web, además de ser facílmente escalable a otras plataformas.
+Además de utilizar threejs, se utiliza otras herramientas como Nodejs, Vite y Git que han facilitado notablemente el desarrollo de este proyecto enfocado a la web, además de ser fácilmente escalable a otras plataformas.
 
 # Introducción
 Crear soluciones gráficas ha implicado invertir una cantidad de tiempo y/o dinero considerable, pero si se accedía a tal riesgo, los resultados no garantizan la posibilidad de compartir nuestro proyecto para que sea utilizado tanto en plataformas de escritorio como en las móviles.
@@ -25,7 +29,7 @@ Threejs resuelve ese problema, consiste en una herramienta que nos permite crear
 - Vite: facilita la detección de errores y optimiza la versión final.
 - Git: controla todas las versiones de nuestra solución.
 
-la calidad de los resultados crece exponencialmente de acuerdo al tiempo dedicado para aprender a utilizarla.
+La calidad de los resultados crece exponencialmente de acuerdo al tiempo dedicado para aprender a utilizarla.
 La contribución de este reporte es proponer un "flujo de trabajo" para facilitar el desarrollo de cualquier propuesta gráfica, en este caso, la simulación de un sistema solar.
 
 # Diseño

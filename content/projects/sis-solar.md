@@ -6,7 +6,7 @@ draft: true
 ---
 
 # Resumen
-La creación de este tipo de gráficas en 3D es de mucha utilidad en diferentes areas desde la investigación científica hasta en las artes visuales, sin embargo, desarrollar una solución a medida podría resultar engorroso.
+La creación de este tipo de gráficas en 3D es de mucha utilidad en diferentes áreas desde la investigación científica hasta en las artes visuales, sin embargo, desarrollar una solución a medida podría resultar engorroso.
 
 Crear una solución eficiente, portable y sencilla es un problema para todas aquellas personas que desean crear gráficas de calidad y no quieren pasar por una curva de aprendizaje interminable. 
 

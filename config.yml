@@ -1,12 +1,43 @@
-baseURL: 'http://example.org/'
+aseURL: 'http://example.org/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'Miguel Hernández Moreno'
 theme: 'hugo-theme-stack'
 paginate: 5
 
 menu:
   main:
-    - identifier: post
-      name: Posting
-      url: "post/"
+    - identifier: writings
+      name: Escritura
+      url: "escritos/"
       weight: 10
+      params:
+        icon: notebook
+    - identifier: projects
+      name: Proyectos
+      url: "projects/"
+      weight: 10
+      params:
+        icon: packages
+    - identifier: posts
+      name: Publicaciones
+      url: "posts/"
+      weight: 10
+      params:
+        icon: article
+    - identifier: photo
+      name: Fotografía
+      url: "photo/"
+      weight: 10
+      params:
+        icon: camera-selfie
+  social:
+    - identifier: github
+      name: Github
+      url: https://github.com/miguehm
+      params:
+        icon: brand-github
+
+params:
+  sidebar:
+    subtitle: 'Adicción Aurea Φ'
+

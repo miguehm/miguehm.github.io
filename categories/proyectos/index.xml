@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Miguel Hernández Moreno</title><link>/post/</link><description>Recent content in Posts on Miguel Hernández Moreno</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 14:23:19 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Modelo de Sistema Solar con Three.js usando Node.js y Vite</title><link>/post/projects/sis-solar/</link><pubDate>Tue, 25 Oct 2022 14:23:19 +0000</pubDate><guid>/post/projects/sis-solar/</guid><description>&lt;img src="/sis-solar/rotate-earth.jpg" alt="Featured image of post Modelo de Sistema Solar con Three.js usando Node.js y Vite" />&lt;h1 id="resumen">Resumen&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Proyectos on Miguel Hernández Moreno</title><link>/categories/proyectos/</link><description>Recent content in Proyectos on Miguel Hernández Moreno</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 14:23:19 +0000</lastBuildDate><atom:link href="/categories/proyectos/index.xml" rel="self" type="application/rss+xml"/><item><title>Modelo de Sistema Solar con Three.js usando Node.js y Vite</title><link>/post/projects/sis-solar/</link><pubDate>Tue, 25 Oct 2022 14:23:19 +0000</pubDate><guid>/post/projects/sis-solar/</guid><description>&lt;img src="/sis-solar/rotate-earth.jpg" alt="Featured image of post Modelo de Sistema Solar con Three.js usando Node.js y Vite" />&lt;h1 id="resumen">Resumen&lt;/h1>
 &lt;p>La creación de este tipo de gráficas en 3D es de mucha utilidad en diferentes áreas desde la investigación científica hasta en las artes visuales, sin embargo, desarrollar una solución a medida podría resultar engorroso.&lt;/p>
 &lt;p>Crear una solución eficiente, portable y sencilla es un problema para todas aquellas personas que desean crear gráficas de calidad y no quieren pasar por una curva de aprendizaje interminable.&lt;/p>
 &lt;p>A continuación se describe paso a paso la creación de una simulación de un sistema solar utilizando threejs, entre otras herramientas, con la finalidad de ser el detonante para que cualquier persona desarrolle sus propios proyectos acorde a sus necesidades.&lt;/p>
@@ -213,16 +213,4 @@ alt="Archivos listos para montar en un servidor remoto"
 >Threejs Docs&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://skfb.ly/owSFQ" target="_blank" rel="noopener"
 >Blackhole model by Kenny Maguire Studio&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Regla Tercios</title><link>/post/photo/regla-tercios/</link><pubDate>Tue, 18 Oct 2022 16:03:47 +0000</pubDate><guid>/post/photo/regla-tercios/</guid><description>&lt;h1 id="explicando-la-regla-de-tercios">Explicando la regla de tercios&lt;/h1>
-&lt;p>hola&lt;/p>
-&lt;h2 id="principios">Principios&lt;/h2>
-&lt;p>jeje&lt;/p>
-&lt;h1 id="test">Test&lt;/h1>
-&lt;p>&lt;img src="/myphotos/sus.png"
-loading="lazy"
-alt="test"
->&lt;/p>
-&lt;p>$$
-\frac{2}{4}
-$$&lt;/p>
-&lt;p>$a \in b$&lt;/p></description></item></channel></rss>
+&lt;/ul></description></item></channel></rss>

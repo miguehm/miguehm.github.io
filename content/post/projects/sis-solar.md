@@ -3,7 +3,7 @@ title: Modelo de Sistema Solar con Three.js usando Node.js y Vite
 author: Miguel Angel Hernández Moreno
 date: 2022-10-25T14:23:19Z
 image: sis-solar/rotate-earth.jpg
-draft: false
+draft: true
 categories:
     - Proyectos
 tags: ["threejs"]

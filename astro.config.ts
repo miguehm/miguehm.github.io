@@ -18,11 +18,14 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [
-      remarkToc,
+      [remarkToc, {
+        heading: "Contenidos", // Cambia esto al encabezado que desees
+        maxDepth: 3, // Ajusta la profundidad máxima si lo necesitas
+      }],
       [
         remarkCollapse,
         {
-          test: "Table of contents",
+          test: "Contenidos",
         },
       ],
     ],

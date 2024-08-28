@@ -5,20 +5,37 @@
 @layer base {
   :root,
   html[data-theme="light"] {
-    --color-fill: 237, 231, 249;
-    --color-text-base: 14, 8, 23;
-    --color-accent: 93, 25, 210;
-    --color-card: 155, 111, 231;
-    --color-card-muted: 205, 205, 205;
-    --color-border: 155, 111, 231;
+    --color-fill: 247, 249, 246;
+    --color-text-base: 14, 18, 12;
+    --color-accent: 43, 34, 98;
+    --color-card: 157, 175, 190;
+    --color-card-muted: 255, 0, 0;
+    --color-border: 66, 82, 56;
   }
+/* 
+https://www.realtimecolors.com/blog-post?colors=0e120c-f7f9f6-425238-9dafbe-2b2262&fonts=Inter-Inter
+
+light:
+--text: rgb(14, 18, 12);
+--background: rgb(247, 249, 246);
+--primary: rgb(66, 82, 56);
+--secondary: rgb(157, 175, 190);
+--accent: rgb(43, 34, 98);
+
+dark:
+--text: rgb(238, 242, 236);
+--background: rgb(8, 10, 7);
+--primary: rgb(183, 199, 172);
+--secondary: rgb(66, 84, 99);
+--accent: rgb(163, 158, 221);
+*/
   html[data-theme="dark"] {
-    --color-fill: 12, 6, 23;
-    --color-text-base: 237, 231, 247;
-    --color-accent: 113, 47, 230;
-    --color-card: 68, 24, 144;
-    --color-card-muted: 138, 51, 2;
-    --color-border: 68, 24, 144;
+    --color-fill: 8, 10, 7; /* background */
+    --color-text-base: 238, 242, 236; /* text */
+    --color-accent: 163, 158, 221; /* accent */
+    --color-card: 66, 84, 99; /* secondary */
+    --color-card-muted: 0, 255, 0; 
+    --color-border: 183, 199, 172; /* primary */
   }
   #sun-svg,
   html[data-theme="dark"] #moon-svg {

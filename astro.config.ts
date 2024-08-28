@@ -28,7 +28,7 @@ export default defineConfig({
     ],
     shikiConfig: {
       // For more themes, visit https://shiki.style/themes
-      themes: { light: "github-light-default", dark: "github-dark-dimmed" },
+      themes: { light: "github-light-default", dark: "slack-dark" },
       wrap: true,
     },
   },

@@ -1,7 +1,7 @@
 ---
 title: Configurar snippets personalizados en Astrovim 
 author: Miguel Hernández Moreno
-pubDatetime: 2024-08-27T20:01:35Z
+pubDatetime: 2024-08-27T14:01:35-06
 slug: snippets-custom-astrovim
 featured: true
 draft: false

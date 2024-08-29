@@ -1,8 +1,8 @@
 ---
 title: Ejecutar un bash script de fondo cada X segundos 
 author: Miguel Hernández Moreno
-pubDatetime: 2024-08-28T05:34:50Z
-modDatetime: 2024-08-29T17:03:03Z
+pubDatetime: 2024-08-28T23:34:50-06
+modDatetime: 2024-08-29T11:03:03-06
 slug: ejecutar-bashscript-frecuentemente
 featured: true
 draft: false

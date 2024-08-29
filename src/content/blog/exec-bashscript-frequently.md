@@ -2,6 +2,7 @@
 title: Ejecutar un bash script de fondo cada X segundos 
 author: Miguel Hernández Moreno
 pubDatetime: 2024-08-28T05:34:50Z
+modDatetime: 2024-08-29T17:03:03Z
 slug: ejecutar-bashscript-frecuentemente
 featured: true
 draft: false
@@ -53,7 +54,7 @@ fi
 Darle permisos de ejecución
 
 ```bash 
-sudo chmod +x sync.sh
+chmod +x sync.sh
 ```
 
 ## Archivos service, timer y el sistema systemd
@@ -67,11 +68,10 @@ Un `timer` configuran temporizadores que activan servicios en momentos específi
 
 > `.service` define **que** se debe hacer, `.timer` define **cuando** se debe hacer.
 
-Para nuestro caso particular, los archivos se guardaran en las siguientes rutas:
+Para nuestro caso particular, los archivos se guardaran en las siguiente ruta:
 
 ```bash
-~/.config/systemd/user/sync-notes.service
-~/.config/systemd/user/sync-notes.timer
+mkdir -p ~/.config/systemd/user/
 ```
 
 ## Creando archivo service
@@ -81,12 +81,19 @@ Para nuestro caso particular, los archivos se guardaran en las siguientes rutas:
 Description=Run sync.sh for my notes
 
 [Service]
+Environment="PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
 ExecStart=/home/miguehm/.scripts/sync.sh
+
+[Install]
+WantedBy=default.target
 ```
 
 - `[Unit]`: Información sobre el servicio, como su descripción y             
   dependencias.                                                            
-- `[Service]`: Configuración específica del servicio, como el comando a ejecutar (ExecStart), el usuario bajo el cual se ejecuta, y otras opciones de ejecución.                                                   
+- `[Service]`: Configuración específica del servicio, como establecer variables de entorno (Enviroment), el comando a ejecutar (ExecStart), el usuario bajo el cual se ejecuta, y otras opciones de ejecución.                                                   
+- `[Install]`: Define como y cuando la unidad debe ser habilitada. WantedBy=default.target en el archivo de servicio indica este servicio debe iniciar automáticamente como parte del proceso de arranque normal del sistema.
+
+> Se establece la directia Enviroment en [Service] para que el servicio encuentre `git`.
 
 ## Creando archivo timer
 
@@ -122,18 +129,6 @@ Habilita y arranca el temporizador.
 ```bash 
 systemctl --user enable sync-notes.timer 
 systemctl --user start sync-notes.timer
-```
-
-Verificar el estado del temporizador.
-
-```bash 
-systemctl --user status sync-notes.timer
-```
-
-Verificar el estado del servicio.
-
-```bash 
-systemctl --user status sync-notes.service
 ```
 
 Asegúrate que el servicio de usuario `systemd` se inicie al arrancar.

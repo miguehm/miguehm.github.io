@@ -1,9 +1,9 @@
 ---
 title: Configurar snippets personalizados en Astrovim 
-author: Miguel Hernández
+author: Miguel Hernández Moreno
 pubDatetime: 2024-08-28T20:01:35Z
 slug: snippets-custom-astrovim
-featured: false
+featured: true
 draft: false
 tags:
   - dev
@@ -82,7 +82,7 @@ Crear `package.json` en `.config/nvim`
 }
 ```
 
-La gerarquia desde `.config/nvim/` debe quedar de la siguiente manera:
+La jerarquía desde `.config/nvim/` debe quedar de la siguiente manera:
 
 ```bash
 .

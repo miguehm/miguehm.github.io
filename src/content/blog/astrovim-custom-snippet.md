@@ -10,7 +10,6 @@ tags:
   - tool
   - astrovim
   - neovim
-ogImage: ""
 description: Agregar snippets personalizados a Astrovim con lua-snip
 ---
 

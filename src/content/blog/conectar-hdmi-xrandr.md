@@ -2,7 +2,7 @@
 title: Conectarse a una pantalla por hdmi con xrandr 
 author: Miguel Hernández Moreno
 pubDatetime: 2024-08-28T16:44:00-06
-slug: snippets-custom-astrovim
+slug: conectar-hdmi-xrandr
 featured: true
 draft: false
 tags:

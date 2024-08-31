@@ -5,7 +5,7 @@ title: "Acerca de"
 
 Soy Miguel Hernández Moreno, tengo 23 años y actualmente estudio en la Benemérita Universidad Autónoma de Puebla.
 
-Desde muy joven me gusta aprender temas variados por mi cuenta, sobre todo cosas relacionadas a la computación.
+Desde muy joven me ha gustado aprender temas variados por mi cuenta, sobre todo cosas relacionadas a la computación.
 
 Este blog tiene la misión de ser un repositorio de apuntes personales, herramientas tecnológicas y trucos que pueda recuperar fácilmente para poder repasar o simplemente salir de algún apuro momentáneo 😉
 

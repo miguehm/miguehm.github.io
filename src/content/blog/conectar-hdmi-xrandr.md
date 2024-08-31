@@ -7,13 +7,18 @@ featured: true
 draft: false
 tags:
   - dev
-  - tool
   - hdmi
+  - pantalla
+  - linux
   - xrandr
+  - x11
+  - xorg
 description: Usar xrandr para conectarse a una pantalla externa.
 ---
 
 Xrandr es una utilidad de línea de comandos para el sistema de ventanas X (X Window System) que permite configurar y gestionar las propiedades de las pantallas y monitores. Con xrandr, puedes cambiar la resolución, rotar la pantalla, ajustar la tasa de refresco, y gestionar múltiples monitores, entre otras funciones.
+
+## Contenidos
 
 ## Buscar pantalla con xrandr
 

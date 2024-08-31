@@ -17,6 +17,8 @@ tags:
 description: Ejecutar un script de terminal cada cierto tiempo con la intención de sincronizar mis notas en todos mis dispositivos.
 ---
 
+## Contenidos
+
 ## Crear el bash script y configurarlo
 
 Este ejemplo es para sincronizar mi carpeta `notes` alojada en un repositorio remoto de Github.

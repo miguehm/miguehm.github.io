@@ -2,7 +2,7 @@
 title: Agregar lenguaje Español a neovim
 author: Miguel Hernández Moreno
 pubDatetime: 2024-08-31T12:28:00-06
-slug: gestor-notas-nb
+slug: correccion-espanol-neovim
 featured: false
 draft: false
 tags:

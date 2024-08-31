@@ -15,6 +15,8 @@ tags:
 description: Configurar la distribución del teclado a dvorak en Linux en gestores de ventanas basados en x11
 ---
 
+## Contenidos
+
 ## Primer método: Configurar distribución de forma permanente
 
 Instalar paquete de configuraciones de teclado.

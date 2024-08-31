@@ -2,7 +2,6 @@
 title: ptpython: un REPL mejorado
 author: Miguel Hernández Moreno
 pubDatetime: 2024-08-31T12:28:00-06
-slug: gestor-notas-nb
 featured: false
 draft: false
 tags:

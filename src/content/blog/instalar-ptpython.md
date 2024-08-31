@@ -1,7 +1,7 @@
 ---
-title: ptpython: un REPL mejorado
+title: ptpython un REPL mejorado
 author: Miguel Hernández Moreno
-pubDatetime: 2024-08-31T12:28:00-06
+pubDatetime: 2024-08-31T14:03:00-06
 featured: false
 draft: false
 tags:

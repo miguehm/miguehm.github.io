@@ -8,7 +8,6 @@ featured: true
 draft: false
 tags:
   - dev
-  - tool
   - linux
   - git
   - systemd

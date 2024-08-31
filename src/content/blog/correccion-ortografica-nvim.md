@@ -7,7 +7,6 @@ featured: false
 draft: false
 tags:
   - dev
-  - tool
   - linux
   - notas
   - nb

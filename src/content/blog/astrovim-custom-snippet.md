@@ -7,7 +7,7 @@ featured: true
 draft: false
 tags:
   - dev
-  - tool
+  - notas
   - astrovim
   - neovim
 description: Agregar snippets personalizados a Astrovim con lua-snip

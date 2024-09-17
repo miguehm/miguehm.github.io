@@ -12,6 +12,7 @@ tags:
   - notas
   - termux
   - crond
+  - android
 description: Sincronizar notas con Termux y crond
 ---
 

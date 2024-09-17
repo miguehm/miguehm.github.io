@@ -2,7 +2,8 @@
 title: Sincronizar notas de Obsidian en Android
 author: Miguel Hernández Moreno
 pubDatetime: 2024-08-31T12:28:00-06
-featured: false
+slug: sincronizar-obsidian-android
+featured: true
 draft: false
 tags:
   - dev

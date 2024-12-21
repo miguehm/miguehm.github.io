@@ -2,12 +2,14 @@
 title: Convertir markdown a pdf con grip y Firefox
 author: Miguel Hernández
 pubDatetime: 2024-12-21T14:20:21Z
+slug: convertir-md-a-pdf
 featured: false
 draft: false
 tags:
   - dev
   - markdown
   - pdf
+description: Convertir documentos markdown a pdf legibles
 ---
 
 ## Grip

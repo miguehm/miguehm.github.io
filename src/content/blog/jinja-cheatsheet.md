@@ -1,7 +1,7 @@
 ---
 title: Jinja Cheatsheet
 author: Miguel Hernández
-pubDatetime: 2025-04-14T19:31:07Z
+pubDatetime: 2025-04-14T19:49:07Z
 slug: jinja-cheatsheet
 featured: true
 draft: false

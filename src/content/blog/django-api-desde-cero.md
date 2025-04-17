@@ -16,6 +16,8 @@ description: Apuntes de practicas profesionales.
 canonicalURL: Bases para backend.
 ---
 
+# Semana 1: Fundamentos Web y APIs
+
 ## Que es internet, como funciona la web
 
 El internet es una red global de computadoras conectadas entre ellas, se comunican mediante un conjunto estandarizado de protocolos.

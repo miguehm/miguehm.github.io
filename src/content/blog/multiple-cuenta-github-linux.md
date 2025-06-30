@@ -1,7 +1,7 @@
 ---
 title: Multiples Cuentas Github en Linux
 author: Miguel Hernández
-pubDatetime: 2025-06-30T10:44Z
+pubDatetime: 2025-06-30T11:25:00-06
 slug: multiple-cuenta-github-linux
 featured: true
 draft: false

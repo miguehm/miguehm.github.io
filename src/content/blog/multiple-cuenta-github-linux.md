@@ -1,7 +1,7 @@
 ---
 title: Multiples Cuentas Github en Linux
 author: Miguel Hernández
-pubDatetime: 2025-06-30T10:44Z
+pubDatetime: "2025-06-30T10:44Z"
 slug: multiple-cuenta-github-linux
 featured: true
 draft: false
@@ -11,8 +11,8 @@ tags:
   - github
   - linux
 ogImage: ""
-description: Tener miltiples cuentas de github en terminal linux
-canonicalURL: AWS Lambda, usa básico.
+description: Tener multiples cuentas de github en terminal linux
+canonicalURL: Multiple cuenta en github con linux.
 ---
 
 # Generar Claves SSH distintas

@@ -1,7 +1,7 @@
 ---
 title: AWS Lambda + API REST Cheatsheet
 author: Miguel Hernández
-pubDatetime: 2025-04-22T11:23Z
+pubDatetime: "2025-04-22T11:23Z"
 slug: lambda-api-rest-aws
 featured: true
 draft: false
